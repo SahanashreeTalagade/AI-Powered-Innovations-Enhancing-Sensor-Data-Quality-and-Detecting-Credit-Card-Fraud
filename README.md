@@ -1,4 +1,4 @@
-# AI Integration for Predictive Maintenance and Credit Card Fraud Detection  
+# Al-Powered-Innovations-Enhancing-Sensor-Data-Quality-and-Detecting-Credit-Card-Fraud
 
 ## Overview  
 This project leverages *AI techniques* to enhance the quality of sensor data and detect fraudulent credit card transactions. By applying robust data exploration, cleaning, and feature engineering, a *Random Forest model* is trained to accurately classify transactions as fraudulent or legitimate.  
