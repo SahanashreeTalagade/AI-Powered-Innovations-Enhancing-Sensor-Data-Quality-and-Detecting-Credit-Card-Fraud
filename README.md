@@ -53,11 +53,11 @@ Ensure that the dataset is available in the appropriate directory.
 ### Steps  
 1. Clone the repository:  
    bash
-   git clone 
+   git clone https://github.com/SahanashreeTalagade/AI-Powered-Innovations-Enhancing-Sensor-Data-Quality-and-Detecting-Credit-Card-Fraud
      
 2. Navigate to the project directory:  
    bash
-   cd AI-Powered-Innovations
+   cd AI-Powered-Innovations-Enhancing-Sensor-Data-Quality-and-Detecting-Credit-Card-Fraud
      
 3. Run the notebook or Python script containing the workflow.  
 
